@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF65E3FE28AF358200A218DA /* ResourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF65E3FD28AF358200A218DA /* ResourceViewController.swift */; };
 		DF9CB3CA28AD72C5001AA24E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF9CB3C928AD72C5001AA24E /* AppDelegate.swift */; };
 		DF9CB3CC28AD72C5001AA24E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF9CB3CB28AD72C5001AA24E /* SceneDelegate.swift */; };
 		DF9CB3CE28AD72C5001AA24E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF9CB3CD28AD72C5001AA24E /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF65E3FD28AF358200A218DA /* ResourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceViewController.swift; sourceTree = "<group>"; };
 		DF9CB3C628AD72C5001AA24E /* FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF9CB3C928AD72C5001AA24E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DF9CB3CB28AD72C5001AA24E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				DF9CB3D728AD72C6001AA24E /* LaunchScreen.storyboard */,
 				DF9CB3DA28AD72C6001AA24E /* Info.plist */,
 				DF9CB3D228AD72C5001AA24E /* FinalProject.xcdatamodeld */,
+				AF65E3FD28AF358200A218DA /* ResourceViewController.swift */,
 			);
 			path = FinalProject;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF65E3FE28AF358200A218DA /* ResourceViewController.swift in Sources */,
 				DF9CB3CE28AD72C5001AA24E /* ViewController.swift in Sources */,
 				DF9CB3CA28AD72C5001AA24E /* AppDelegate.swift in Sources */,
 				DF9CB3D428AD72C5001AA24E /* FinalProject.xcdatamodeld in Sources */,
